@@ -1,0 +1,17 @@
+6 2 1
+dodaj aaabbbcccdddeee 2000 2
+10 20
+30 40
+dodaj aaabbbcccdddeef 3000 1
+50 61
+dodaj aaabbbcccdddeeg 1000 1
+70 80
+dodaj aaabbbcccdddeeh 4000 1
+90 100
+dodaj aaabbbcccdddeei 5000 1
+16 21
+poizvedba 1234
+dodaj aaabbbcccdddeej 6000 1
+30 40
+odstrani aaabbbcccdddeei 5000
+poizvedba 1234
